@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar{
+  background-color: aqua;
+}
+
+.nav-link{
+  color: white!important;
+}
+
+.table{
+  color: black!important;
+  display: inline;
+}
+
+/* .btn{
+  padding-left: 5ch!important;
+} */
+
+/* .collapse{
+  padding-left: 1ch !important;
+} */
+
+/* .footer{
+      position: fixed;
+      bottom: 0;
+      /* padding: 10px 10px 0px 10px; */
+      /* bottom: 0;
+      width: 100%;
+      /* Height of the footer*/
+      /* height: 40px;
+      background: grey; */ 
+ 
+
+/* h3{
+  text-align: left!important;
+  padding-left: 25ch;
+} */
